@@ -2,6 +2,10 @@
 
 # "This game is running on Vivo Y20(Ram- 4GB Processor- 1.8GHz, Snapdragon SDM460 Octo-core)".
 
+# Note- These videos are highly compressed for best experience please download my project.
+
+
+
 # Intro(Please increase volume for best experience)
 
 https://github.com/mohd-anas273/RemyWorldMohdAnas/assets/137867352/0c6c9db7-ea48-4538-8f58-8c216fd3f066
